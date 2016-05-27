@@ -1,5 +1,5 @@
 class Click < ActiveRecord::Base
-	def total
+	def self.total
 		Click.all.count
 	end
 end
