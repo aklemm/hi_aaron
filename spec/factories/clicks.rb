@@ -1,4 +1,5 @@
-FactoryGirl.define do
+FactoryGirl.define do 
 	factory :click do
+		
 	end
 end
